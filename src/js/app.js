@@ -14,7 +14,7 @@ character.src = img;
 function placeCharacter() {
   const cells = document.querySelectorAll('.cell');
   let randomIndex = Math.floor(Math.random() * cells.length);
-  const currentIndex = Array.from(cells).indexOf(character.parentNode);
+  const currentIndex = Array.from(cells).indexOf(character.parentNode);``
   do {if (randomIndex !== currentIndex) {
     cells[randomIndex].appendChild(character);
     break; 
