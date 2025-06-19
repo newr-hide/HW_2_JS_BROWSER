@@ -1,4 +1,3 @@
-# Webpack5
+# Домашнее задание по занятию "Работа с DOM"
 
-[Руководство по настройке Webpack](https://webpack.js.org/guides/)
-[Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
+[![GitHub Actions Demo](https://github.com/newr-hide/HW_2_JS_BROWSER/actions/workflows/github-actions-demo.yml/badge.svg)](https://github.com/newr-hide/HW_2_JS_BROWSER/actions/workflows/github-actions-demo.yml)
